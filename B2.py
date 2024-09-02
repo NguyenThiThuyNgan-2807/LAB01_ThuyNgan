@@ -1,0 +1,6 @@
+a = int(input("Số nguyên a = "))
+b = int(input("Số nguyên b = "))
+print("Tổng = ",a+b)
+print("Hiệu = ",a-b)
+print("Thương = ", round(a/b,2),"(làm tròn 2 chữ số)")
+print("Thương = ", round(a/b,3),"(làm tròn 3 chữ số)")
