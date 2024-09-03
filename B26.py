@@ -9,5 +9,5 @@ print("Thứ tự tăng dần a,b,c là: ",min,",",mid,",",max)
 
 #b> Thứ tự tăng dần N:
 N = int(input("Nhập vào số nguyên N: "))
-sorted_N = ''.join(sorted(N))
+sorted_N = "".join(sorted(N))
 print(f"Số có các con số theo thứ tự tăng dần: {sorted_N}")
