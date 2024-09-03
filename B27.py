@@ -10,6 +10,6 @@ elif a=="n":
     print("S(n) = ",c*d)
 else:
     r=float(input("Nhập bán kính: "))
-    print("P(n) = ",r*3,14)
-    print("S(n) = ",r*2*(3,14))
+    print("P(n) = ",r*3.14)
+    print("S(n) = ",r*2*3.14)
     
